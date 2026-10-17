@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "regions": ["hnd1"],
+  "regions": ["fra1"],
   "builds": [
     {
       "src": "flask_app.py",
